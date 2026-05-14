@@ -27,4 +27,4 @@ This project is based on our accepted paper:
 ├── Dockerfile.server          # Docker configuration for the backend server
 ├── docker-compose.yml         # Docker Compose setup
 ├── docs/                      # Paper and supplementary materials
-└── 系統架構圖.drawio.png        # System architecture diagram
+└── 流程圖.JPG        # System architecture diagram
